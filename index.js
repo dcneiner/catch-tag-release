@@ -4,5 +4,4 @@ console.log( 'howdy' );
 console.log( 'howdy' );
 console.log( 'howdy' );
 console.log( 'howdy' );
-console.log( 'howdy' );
 console.log( 'there!' );
