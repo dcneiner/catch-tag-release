@@ -1,5 +1,9 @@
 ## 9.x
 
+### 11.7.1
+
+* One less howdy, private npm
+
 ### 11.7.0
 
 * Nice change
